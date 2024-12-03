@@ -1,0 +1,2 @@
+USART.c:20:6:command_parser_fsm	8	static
+USART.c:48:6:uart_communication_fsm	8	static
